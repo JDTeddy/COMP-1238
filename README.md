@@ -12,9 +12,9 @@
 * Right Parenthesis )
 
 ### Links
-*
-*
-*
+* [Amazon](https://www.amazon.ca/)
+* [Wikipedia](https://www.wikipedia.org/)
+* [youtube](https://www.youtube.com/)
 
 ### Experiments
 * :sleeping:
