@@ -17,6 +17,6 @@
 * [youtube](https://www.youtube.com/)
 
 ### Experiments
-* :sleeping:
-* :smirk:
-* :smiley:
+* :sleeping: Sleeping
+* :smirk: Smirk
+* :smiley: Smiley
