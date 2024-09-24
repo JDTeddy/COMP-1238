@@ -20,3 +20,14 @@
 * :sleeping: Sleeping
 * :smirk: Smirk
 * :smiley: Smiley
+
+### Keyboard Shortcuts
+Shortcuts I use Frequently:
+* Ctrl-C (Copy)
+* Ctrl-V (Paste)
+* WIN-Arrow Key (Slice Layout)
+
+Shortcuts I would like to start using:
+* Ctrl-A (select all)
+* Ctrl-Shift-Esc (Open Task Manager)
+* Alt-Tab (Switch between open apps)
