@@ -31,3 +31,4 @@ Shortcuts I would like to start using:
 * Ctrl-A (select all)
 * Ctrl-Shift-Esc (Open Task Manager)
 * Alt-Tab (Switch between open apps)
+[CLI commands](docs/cli.md)
