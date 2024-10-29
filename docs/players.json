@@ -1,17 +1,21 @@
 [
+  
+  
+  
   {
-    "name": "James Brown" 
-  }  
-  ,{   
+    "name": "James Brown",  
+      "sports": "Basketball",
+    "team": {"name":"Raptors", "city":"Toronto"},
+    "Position": "Forward",
+    "Age": "25"
+  },
+
+  {
+    "name": "Lebron James", 
     "sports": "Basketball",
-    "team": {"name":"Raptors", "city":"Toronto"}
-}
-  ,{
-    "name": "Lebron James" 
-  }  
-  ,{   
-    "sports": "Basketball",
-    "team": {"name":"Lakers", "city":"Los Angeles"}
+    "team": {"name":"Lakers", "city":"Los Angeles"},
+    "Position": "Forward",
+    "Age": "38"
 }
 
 ]
