@@ -1,0 +1,17 @@
+[
+  {
+    "name": "James Brown" 
+  }  
+  ,{   
+    "sports": "Basketball",
+    "team": {"name":"Raptors", "city":"Toronto"}
+}
+  ,{
+    "name": "Lebron James" 
+  }  
+  ,{   
+    "sports": "Basketball",
+    "team": {"name":"Lakers", "city":"Los Angeles"}
+}
+
+]
