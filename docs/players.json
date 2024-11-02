@@ -3,7 +3,7 @@
   
   
   {
-    "name": "James Brown",  
+    "name": "James Brown",  // string
       "sports": "Basketball",
     "team": {"name":"Raptors", "city":"Toronto"},
     "Position": "Forward",
@@ -11,7 +11,7 @@
   },
 
   {
-    "name": "Lebron James", 
+    "name": "Lebron James", // string
     "sports": "Basketball",
     "team": {"name":"Lakers", "city":"Los Angeles"},
     "Position": "Forward",
