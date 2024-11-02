@@ -3,11 +3,11 @@
   
   
   {
-    "name": "James Brown",  // string
+    "name": "James Brown",
       "sports": "Basketball",
     "team": {"name":"Raptors", "city":"Toronto"},
     "Position": "Forward",
-    "Age": "25"
+    "Age": "25" // string
   },
 
   {
